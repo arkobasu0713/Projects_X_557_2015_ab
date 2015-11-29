@@ -1,3 +1,0 @@
-C:/Users/arkob_000/Documents/Projects_X_557_2015_ab/Asgn3_part1/CMakeFiles/HCI557_ass3_p1.dir
-C:/Users/arkob_000/Documents/Projects_X_557_2015_ab/Asgn3_part1/CMakeFiles/ALL_BUILD.dir
-C:/Users/arkob_000/Documents/Projects_X_557_2015_ab/Asgn3_part1/CMakeFiles/ZERO_CHECK.dir
