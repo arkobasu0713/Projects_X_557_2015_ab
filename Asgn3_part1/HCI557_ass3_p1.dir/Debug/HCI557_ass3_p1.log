@@ -1,0 +1,22 @@
+﻿Build started 11/29/2015 3:09:33 PM.
+     1>Project "C:\Users\arkob_000\Documents\Projects_X_557_2015_ab\Asgn3_part1\HCI557_ass3_p1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /IC:\Users\arkob_000\Documents\Projects_X_557_2015_ab\SDK\include /IC:\Users\arkob_000\Documents\Projects_X_557_2015_ab\Asgn3_part1\..\gl_common /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"HCI557_ass3_p1.dir\Debug\\" /Fd"HCI557_ass3_p1.dir\Debug\vc140.pdb" /Gd /TP /errorReport:prompt C:\Users\arkob_000\Documents\Projects_X_557_2015_ab\Asgn3_part1\main_p1.cpp
+         main_p1.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\arkob_000\Documents\Projects_X_557_2015_ab\Asgn3_part1\Debug\HCI557_ass3_p1.exe" /INCREMENTAL /NOLOGO legacy_stdio_definitions.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib C:\Users\arkob_000\Documents\Projects_X_557_2015_ab\SDK\lib\glew32.lib C:\Users\arkob_000\Documents\Projects_X_557_2015_ab\SDK\lib\Release\glfw.lib glu32.lib opengl32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/arkob_000/Documents/Projects_X_557_2015_ab/Asgn3_part1/Debug/HCI557_ass3_p1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/arkob_000/Documents/Projects_X_557_2015_ab/Asgn3_part1/Debug/HCI557_ass3_p1.lib" /MACHINE:X64  /machine:x64 /debug HCI557_ass3_p1.dir\Debug\main_p1.obj
+         HCI557_ass3_p1.dir\Debug\GLSphereDirect.obj
+         HCI557_ass3_p1.dir\Debug\HCI557Common.obj
+         HCI557_ass3_p1.dir\Debug\controls.obj
+         HCI557_ass3_p1.dir\Debug\CoordSystem.obj
+         HCI557_ass3_p1.dir\Debug\GLObject.obj
+         HCI557_ass3_p1.dir\Debug\GLSphere.obj
+         HCI557_ass3_p1.dir\Debug\Shaders.obj
+         HCI557_ass3_p1.dir\Debug\GLAppearance.obj
+     1>LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+         HCI557_ass3_p1.vcxproj -> C:\Users\arkob_000\Documents\Projects_X_557_2015_ab\Asgn3_part1\Debug\HCI557_ass3_p1.exe
+     1>Done Building Project "C:\Users\arkob_000\Documents\Projects_X_557_2015_ab\Asgn3_part1\HCI557_ass3_p1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.42
